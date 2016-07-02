@@ -2,7 +2,7 @@
 # Datei:    functions_gui.py
 # Version:  1.3
 # Datum:    01.12.2015, 31.01.2016, 05.02.2016, 24.02.2016, 25.02.2016
-# Autor:    Ovidiu Tatar
+# Autor:    Lucas Voelz
 
 from abstraktefunktion import AbstrakteFunktion
 from cosinusfunktion import CosinusFunktion
